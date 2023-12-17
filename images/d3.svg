@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Dégradé_sans_nom_2);
+      }
+
+      .cls-2 {
+        stroke: url(#Dégradé_sans_nom_3);
+        stroke-width: 40px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: url(#Dégradé_sans_nom_4);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-3" d="M0,0H7.75c25.13,0,45.5,20.37,45.5,45.5S32.88,91,7.75,91H0v-20H7.75c14.08,0,25.5-11.42,25.5-25.5S21.83,20,7.75,20H0V0ZM36.25,0h32c15.33,0,27.75,12.42,27.75,27.75,0,6.49-2.27,12.77-6.42,17.75,9.8,11.78,8.2,29.28-3.58,39.08-4.98,4.15-11.27,6.42-17.75,6.42H36.25c7.87-4.93,14.33-11.82,18.75-20h13.25c4.28,0,7.75-3.47,7.75-7.75s-3.47-7.75-7.75-7.75h-7.75c1.25-6.61,1.25-13.39,0-20h7.75c4.28,0,7.75-3.47,7.75-7.75s-3.47-7.75-7.75-7.75h-13.25C50.58,11.82,44.13,4.93,36.25,0Z"/>
+    </clipPath>
+    <linearGradient id="Dégradé_sans_nom_4" data-name="Dégradé sans nom 4" x1="-43.64" y1="-1.95" x2="-.64" y2="-44.95" gradientTransform="translate(-8.36 121.05) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f59f3e"/>
+      <stop offset="1" stop-color="#f49751"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_2" data-name="Dégradé sans nom 2" x1="115.36" y1="193.05" x2="178.36" y2="130.05" gradientTransform="translate(-8.36 121.05) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b84e51"/>
+      <stop offset="1" stop-color="#f28d4a"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_3" data-name="Dégradé sans nom 3" x1="9.64" y1="122.35" x2="94.64" y2="36.35" gradientTransform="translate(-8.36 121.05) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ed6e59"/>
+      <stop offset="1" stop-color="#f59f3e"/>
+    </linearGradient>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g class="cls-4">
+      <g>
+        <path class="cls-5" d="M-127-102V198H173L-127-102Z"/>
+        <path class="cls-1" d="M-73-102H227V198L-73-102Z"/>
+        <path class="cls-2" d="M-100-102L200,198"/>
+      </g>
+    </g>
+  </g>
+</svg>
