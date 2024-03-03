@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#464646" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.5 23.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #464646;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <path class="cls-1" d="M8,19.03c-5,1.5-5-2.5-7-3m14,6v-3.87c.08-.96-.27-1.92-.94-2.61,3.14-.35,6.44-1.54,6.44-7,0-1.4-.54-2.74-1.5-3.75,.46-1.22,.42-2.57-.09-3.77,0,0-1.18-.35-3.91,1.48-2.29-.62-4.71-.62-7,0-2.73-1.83-3.91-1.48-3.91-1.48-.51,1.2-.55,2.55-.09,3.77-.97,1.02-1.51,2.37-1.5,3.78,0,5.42,3.3,6.61,6.44,7-.67,.69-1.01,1.63-.94,2.58v3.87"/>
+  </g>
+</svg>
